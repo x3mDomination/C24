@@ -1,2 +1,1 @@
-# C24
-Angry birds game.
+# Box Class
